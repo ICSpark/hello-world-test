@@ -57,7 +57,6 @@ Open your code editor and create a file named `index.html`. Add the following co
 </html>
 ```
 ### 2. Create the CSS File
-## Step-by-Step Guide
 
 Create a file named `styles.css` and add the following code to style your webpage:
 
