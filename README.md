@@ -33,7 +33,10 @@ Before you begin, ensure you have the following:
 ## Project Structure
 
 Create a project directory and set up the following file structure:
-
+simple-website/
+├── index.html
+├── styles.css
+└── script.js
 
 ## Step-by-Step Guide
 
