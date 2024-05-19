@@ -56,4 +56,39 @@ Open your code editor and create a file named `index.html`. Add the following co
 </body>
 </html>
 ```
+### 2. Create the CSS File
+## Step-by-Step Guide
 
+Create a file named `styles.css` and add the following code to style your webpage:
+
+```css
+body {
+  font-family: Arial, sans-serif;
+}
+```
+
+### 3. Create the JavaScript File
+
+Create a file named `script.js` 
+
+### 4. Link the CSS and JavaScript Files
+
+Ensure that the CSS and JavaScript files are linked correctly in your `index.html` file. The `<link>` tag for CSS should be inside the `<head>` section, and the `<script>` tag for JavaScript should be just before the closing `</body>` tag.
+
+### 5. Open the HTML File in a Browser
+
+Open your `index.html` file in a web browser to see your simple website in action. You should see a styled heading, a paragraph, and a button that displays an alert when clicked.
+
+## Things to Look Out For
+
+- Ensure the file paths in the `<link>` and `<script>` tags are correct.
+- Use proper HTML structure and semantics.
+- Keep your CSS organized and use meaningful class names.
+- Avoid inline styles and JavaScript as much as possible for better maintainability.
+- Test your website in different browsers to ensure compatibility.
+
+## Conclusion
+
+Congratulations! You've created a simple website using HTML, CSS, and JavaScript. This is just the beginning – there are many more features and technologies to explore. Keep learning and experimenting to build more complex and dynamic websites.
+
+Feel free to reach out if you have any questions or feedback. Happy coding!
