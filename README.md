@@ -22,14 +22,6 @@ Welcome to the Simple Website Tutorial! This guide will walk you through the ste
 
 In this tutorial, you'll learn how to create a simple website with an HTML structure, styled with CSS, and interactivity added using JavaScript. By the end of this guide, you will have a basic understanding of how these three technologies work together to create a functional webpage.
 
-## Prerequisites
-
-Before you begin, ensure you have the following:
-
-- A code editor (e.g., VS Code, Sublime Text)
-- A web browser (e.g., Chrome, Firefox)
-- Basic knowledge of HTML, CSS, and JavaScript
-
 ## Project Structure
 
 Create a project directory and set up the following file structure:
