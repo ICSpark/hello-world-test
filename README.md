@@ -83,6 +83,31 @@ Open your `index.html` file in a web browser to see your simple website in actio
 - Avoid inline styles and JavaScript as much as possible for better maintainability.
 - Test your website in different browsers to ensure compatibility.
 
+## Stretch Goals
+If you finish early, feel free to try out these additions to your website!
+
+### 6. Make it a Header!
+Enclose the "Hello World!" in an ``<h1>`` tag as shown below:
+```<h1> Hello World! </h1>```
+<br>
+The full code should now look like this:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1> Hello World! </h1>
+  <script src="script.js"></script>
+</body>
+</html>
+```
+
+
 ## Conclusion
 
 Congratulations! You've created a simple website using HTML, CSS, and JavaScript. This is just the beginning – there are many more features and technologies to explore. Keep learning and experimenting to build more complex and dynamic websites.
