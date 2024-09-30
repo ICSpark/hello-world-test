@@ -87,7 +87,7 @@ Open your `index.html` file in a web browser to see your simple website in actio
 If you finish early, feel free to try out these additions to your website!
 
 ### 6. Make it a Header!
-Enclose the "Hello World!" in an ``<h1>`` tag as shown below:
+Enclose the "Hello World!" in an ``<h1>`` tag as shown here:
 ```<h1> Hello World! </h1>```
 <br>
 The full code should now look like this:
